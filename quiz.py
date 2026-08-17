@@ -33,4 +33,4 @@ kbc()
 if sum==10:
     print("Congratulation ! You have become the Crorepati.")
 else:
-    print(f"Better Luck next time. {score} out of 10 questions are correct")
+    print(f"Better Luck Next Time. {score} out of 10 questions are correct")
