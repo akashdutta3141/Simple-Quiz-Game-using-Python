@@ -1,6 +1,6 @@
 import random
 question_set = [
-    ["Who is the first Prime Minister of India?", "Jawaharlal Nehru", "Narendra Modi", "Atal Bihari Vajpayee", "Subhas Chandra Bose", 4],
+    ["Who is the first Prime Minister of India?", "Jawaharlal Nehru", "Narendra Modi", "Atal Bihari Vajpayee", "Subhas Chandra Bose", 1],
     ["Who is known as the Iron Man of India?", "A. P. J. Abdul Kalam", "Sardar Vallabhbhai Patel", "Mahatma Gandhi", "S. Jaishankar", 2],
     ["What is the capital of India?", "Mumbai", "Kolkata", "New Delhi", "Chennai", 3],
     ["Which planet is known as the Red Planet?", "Earth", "Mars", "Jupiter", "Venus", 2],
